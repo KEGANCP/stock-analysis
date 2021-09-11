@@ -6,13 +6,10 @@ Utilizing [green stock dataset](https://github.com/KEGANCP/stock-analysis/blob/m
 # Project Results
 By enhancing our intial VBA code, I was able to reduce our run time to populate this data for our now larger set of green energy tickers. With this improved run time, Steve can now generate and quantify Total Daily Volume and Return percentage for each specific ticker in a much quicker run time. In the below screenshot you will see our runtime timer results compared from our first VBA code to our enhanced code. Steve is now able to review this data in half the run time it took prior to my refactoring.
 
-![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/Original2017Timer.png)
+![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2017_Compare.png)
 
-![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/VBA_CHALLENGE_2017.png)
+![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2018_Compare.png)
 
-![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/Original2018Timer.png)
-
-![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/VBA_CHALLENGE_2018.png)
 
 ## Analysis of Outcomes based on Goals
 The below will provide a visual on how *successful, failed,* and *canceled* "Theater/Play" Kickstarter campaigns fared based on their funding goals. Using this data we can conclude that Theater campaigns are successful more frequently when the funding goal is less than $1,000. We can also see that the effectiveness declines as the goal increases to $29,999.
