@@ -8,7 +8,7 @@ By enhancing our intial VBA code, I was able to reduce our run time to populate 
 
 ![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2017_Compare.png)
 
-![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2018_Compare.png)
+![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2018_Compare..png)
 
 
 ## Analysis of Outcomes based on Goals
