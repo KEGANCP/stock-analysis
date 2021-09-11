@@ -16,26 +16,12 @@ The below will provide a visual of some of the refactored code which resulted in
 
 ![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/Refactored_Code.png)
 
-## Challenges
-There are various challenges to consider when preparing this information; an example of a difficulty identified when accumulating this data includes breaking down categories that would be specific to Louises' needs. Given that Louise is interested in Kickstarter campaigns relevant to her play *Fever*, a lot of the data within the Kickstarter data set would not be entirely relevant to her. Thankfully, we were able to break this data down by sorting out Theater categories, and even more specific, by Plays.  
+# Project Summary
+There are various elements to consider when preparing this information; 
+### Advantages
+- When refactoring, you're goal is to review the code in it's entirety; this allows an oppurtinituy to identify redundancies, or code that isn't neccessary to achieve the results your looking for. This also gives the oppurtinity to identify code that can be improved/consolidated to improve run time. When working with a large dataset, refactoring can be extremely effective and important to the end user.
+### Disadvantages
+- Depending on the size of your project, refactoring can be very time consuming, and may not always be worth the time if you're only able to improve run time by a fraction of a second. It's important to consider which codes you're looking to improve, and how to restructure appropriately as you could easily mis-place or mis type a code that could result in oulling incorrect or incomplete data.
 
-# Results
-
-## Theater Outcomes by Launch Date
-- Historically May has been the most effective start date for Theater Kickstarter campaigns.
-- Historically December  has been the least effective start date for Theater Kickstarter campaigns.
-- We conclude that summer months (May-July) have been the more effective start date for Theater Kickstarter campaigns.
-
-## Outcomes based on Goals
-- Theater Kickstarter campaigns are successful more frequently when the funding goal is less than $1,000.
-- Theater Kickstarter campaigns historically become less effective as the goal increases to $29,000.
-
-## Limitations
-- Louise will not be able to determine specific region based effectiveness of Kickstarter campaigns, based on this dataset.
-- This dataset does not provide data beyond 2017.
-
-## Further Potential Analysis
-Other helpful tables or graphs that we could generate with this data include:
-- How many backers, on average, result in a more successful campaign.
-- What average donation quantity results in a more successful campaign.
-- We could also determine if a specific time of year results in higher backers & donation averages for Theater Kickstarter campaigns. 
+### Recap of above
+- Considering that Steve wants to utilize this tool for a larger set of data, I believe refactoring this code was important to improve effectiveness. While refactoring, I was able to identify a few redundancies and also an oppurtinity to improve & consolidate various code. As more data is added to this tool, these changes were vital to provide the data in a viable run time.
