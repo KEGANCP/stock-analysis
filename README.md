@@ -11,10 +11,9 @@ By enhancing our intial VBA code, I was able to reduce our run time to populate 
 ![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2018_Compare..png)
 
 
-## Analysis of Outcomes based on Goals
-The below will provide a visual on how *successful, failed,* and *canceled* "Theater/Play" Kickstarter campaigns fared based on their funding goals. Using this data we can conclude that Theater campaigns are successful more frequently when the funding goal is less than $1,000. We can also see that the effectiveness declines as the goal increases to $29,999.
-
-![This is an image](https://github.com/KEGANCP/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+## Refactored Code
+The below will provide a visual of some of the refactored code which resulted in higher effeciency. This example specifically outlines the improved nested loop function.
+![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/Refactored_Code.png)
 
 ## Challenges
 There are various challenges to consider when preparing this information; an example of a difficulty identified when accumulating this data includes breaking down categories that would be specific to Louises' needs. Given that Louise is interested in Kickstarter campaigns relevant to her play *Fever*, a lot of the data within the Kickstarter data set would not be entirely relevant to her. Thankfully, we were able to break this data down by sorting out Theater categories, and even more specific, by Plays.  
