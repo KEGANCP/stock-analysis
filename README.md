@@ -4,7 +4,7 @@ Steve has for assistance preparing data analysis for his parents, who are intere
 # Project Objective
 Utilizing [green stock dataset](https://github.com/KEGANCP/stock-analysis/blob/main/VBA_Challenge.xlsm), totaling in raw data for 12 green energy companies, we were able to quantify and analyze the effectiveness and return history of these companies to determine if their may be better investment options other than DAQO (DQ). Our initial file was effective for the smaller set of data, but there was oppurtinity to improve and refactor our VBA code for a more effective run time to provide details for all tickers. 
 # Project Results
-By enhancing our intial VBA code, I was able to reduce our run time to populate this data for our now larger set of green energy tickers. With this improved run time, Steve can now generate and quantify Total Daily Volume and Return percentage for each specific ticker in a much quicker run time. In the below screenshot you will see our runtime timer results compared from our first VBA code to our enhanced code. Steve is now able to review this data in half the run time it took prior to my refactoring.
+By enhancing our intial VBA code, I was able to reduce our run time to populate this data for our now larger set of green energy tickers. With this improved run time, Steve can now generate and quantify Total Daily Volume and Return percentage for each specific ticker in half the run time. In the below screenshot you will see our runtime timer results compared from our first VBA code to our enhanced code. 
 
 ![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/2017_Compare.png)
 
