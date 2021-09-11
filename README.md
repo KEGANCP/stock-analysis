@@ -13,6 +13,7 @@ By enhancing our intial VBA code, I was able to reduce our run time to populate 
 
 ## Refactored Code
 The below will provide a visual of some of the refactored code which resulted in higher effeciency. This example specifically outlines the improved nested loop function.
+
 ![This is an image](https://github.com/KEGANCP/stock-analysis/blob/main/Resources/Refactored_Code.png)
 
 ## Challenges
